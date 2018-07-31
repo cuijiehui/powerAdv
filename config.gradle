@@ -1,0 +1,14 @@
+ext{
+    android =[
+            compileSdkVersion   : 27,
+            buildToolsVersion   : '27.0.2',
+            minSdkVersion       : 19,
+            targetSdkVersion    : 23,
+            versionCode         : 51,
+            versionName         : "1.0.6",
+            applicationId       : "com.coresun.powerbank",
+
+            androidSupportSdkVersion: "27.1.1"
+    ]
+
+}
